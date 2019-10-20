@@ -1,0 +1,6 @@
+rootProject.name = 'gr1930'
+include 'core'
+include 'fxui'
+include 'restapi'
+include 'restserver'
+
