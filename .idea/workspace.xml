@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c540197f-722f-40f2-806e-8957ccb6c242" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/todolist/core/ListLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/todolist/json/SaveLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/todolist/json/save.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fxui/src/main/java/todolist/ui/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fxui/src/main/java/todolist/ui/ListItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fxui/src/main/java/todolist/ui/ListLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fxui/src/main/java/todolist/ui/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fxui/src/main/java/todolist/ui/SaveLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fxui/src/main/resources/todolist/ui/FxApp.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fxui/src/main/resources/todolist/ui/ListItem.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fxui/src/main/resources/todolist/ui/baseline_delete_black_24dp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/core/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fxui/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/fxui/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,30 +45,11 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="gr1930" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="gr1930" type="f1a62948:ProjectNode" />
-                <item name="fxui" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="gr1930" type="f1a62948:ProjectNode" />
-                <item name="fxui" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="gr1930" type="f1a62948:ProjectNode" />
-                <item name="fxui" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="application" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="gr1930" type="f1a62948:ProjectNode" />
-                <item name="fxui" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
               </path>

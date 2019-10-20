@@ -1,0 +1,7 @@
+1. Press CTRL+ALT+S and navigate to "Build Execution, Deployment"> "Build Tools" > Gradle
+2. Change Gradle JVM to Use Internal JRE
+3. Use JAVA 8 (jdk_1.8) as SDK on all other places except for this Gradle JVM, Such as:
+  - Platform settings > SDKs
+  - Project settings > Project
+4. Use Language level 11 on all places
+5. DONT CHANGE ANYTHING ON Project > Modules
