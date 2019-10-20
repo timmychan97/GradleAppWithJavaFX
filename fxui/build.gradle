@@ -1,5 +1,7 @@
 plugins {
-    id 'java'
+    id 'jacoco'
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.8'
 }
 
 group 'gr1930'
@@ -7,10 +9,26 @@ version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
 
+
+// javafx specific way of specifying dependencies
+javafx {
+    version = '11'
+    modules = [ 'javafx.controls', 'javafx.fxml' ]
+    // run with --debug-jvm flag and
+    // launch debugger using Remote Java Application debug launch configuration
+}
+
+
 repositories {
     mavenCentral()
 }
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+application {
+    sourceCompatibility = JavaVersion.VERSION_1_10
+    targetCompatibility = JavaVersion.VERSION_1_10
+    mainClassName = 'todolist.ui.Main' // application plugin
 }
